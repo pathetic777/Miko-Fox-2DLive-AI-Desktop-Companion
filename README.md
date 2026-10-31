@@ -4,9 +4,9 @@
 ### Embodied 2D Live Physics & AI Desktop Companion for Windows 10 / 11 (100% English Edition)
 
 [![GitHub Stars](https://img.shields.io/github/stars/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion?style=for-the-badge&logo=github&color=f59e0b)](https://github.com/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion/stargazers)
-[![Download Release](https://img.shields.io/github/v/release/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion?style=for-the-badge&logo=windows&color=e11d48&label=Download%20Setup.exe%20%2F%20Portable.zip)](https://github.com/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion/releases/latest)
+[![Download Setup.exe](https://img.shields.io/badge/Download-Setup.exe%20Installer-e11d48?style=for-the-badge&logo=windows)](https://github.com/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion/raw/main/Hidzuki_Miko_Fox_2DLive_Desktop_Companion_EN_Setup.exe)
+[![GitHub Release](https://img.shields.io/github/v/release/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion?style=for-the-badge&logo=github&color=db2777&label=Releases%20%28Setup.exe%20%2B%20Portable.zip%29)](https://github.com/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion/releases/latest)
 [![YouTube PV](https://img.shields.io/badge/YouTube-Official%20PV-ff0000?style=for-the-badge&logo=youtube)](https://youtu.be/t9AHTPpDL8Y)
-[![BOOTH Free Download](https://img.shields.io/badge/BOOTH-Free%20%C2%A50%20%2F%20Supporter%20Edition-fc4d50?style=for-the-badge)](https://nocturne-live2d.booth.pm/items/9075455)
 
 > 🌟 **Enjoying Hidzuki & Little White Fox? Please click the ⭐ Star button at the top-right of this repository!**  
 > Your Star & Upvote helps more anime & AI lovers discover Hidzuki and keeps free open-source updates alive!
@@ -19,6 +19,14 @@
 🎬 **Watch the Official Demo PV on YouTube:** [**https://youtu.be/t9AHTPpDL8Y**](https://youtu.be/t9AHTPpDL8Y)
 
 </div>
+
+---
+
+## 📦 One-Click Download & Installation (No Python Required!)
+
+You can download the ready-to-run Windows installer `.exe` directly from the repository file list above or click below:
+- 📥 [**Direct Download: `Hidzuki_Miko_Fox_2DLive_Desktop_Companion_EN_Setup.exe`**](https://github.com/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion/raw/main/Hidzuki_Miko_Fox_2DLive_Desktop_Companion_EN_Setup.exe) — One-click Windows GUI Setup Wizard (creates Desktop shortcut & optional Windows Startup auto-run).
+- 📦 [**GitHub Releases (`Setup.exe` + `Portable.zip`)**](https://github.com/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion/releases/latest) — Includes both the GUI Setup Installer and the no-install `Portable.zip` archive.
 
 ---
 
@@ -42,14 +50,6 @@ Most desktop mascots only play a looped idle animation on your screen. **Hidzuki
    - Poking her chest 1 to 4 times triggers escalating bashful/pouting/teary warnings (`⑤` → `⑥` → `⑦` → `⑧`).
    - On the **5th click**, she switches to **`⑨ Darkened Wrath`**, plays the built-in bonus voice (`"Kyaa...! Ecchi!"` + crisp slap sound + crimson 5-finger slap mark), and initiates a **20-second Windows Shutdown/Restart countdown**!
    - *(Don't worry: a bright green **`🛑 I'm sorry!! (Abort Shutdown)`** mercy button appears immediately so you can cancel with one click!)*
-
----
-
-## 📦 One-Click Download & Installation (No Python Required!)
-
-Go to the [**GitHub Releases Page**](https://github.com/pathetic777/Miko-Fox-2DLive-AI-Desktop-Companion/releases/latest) and download either:
-- **`Hidzuki_Miko_Fox_2DLive_Desktop_Companion_EN_Setup.exe`** — One-click Windows GUI Setup Wizard (creates Desktop shortcut & optional Windows Startup auto-run).
-- **`Hidzuki_Miko_Fox_2DLive_Desktop_Companion_EN_Portable.zip`** — Portable no-install edition (just unzip and run `MikoFoxPet.exe`!).
 
 ---
 
@@ -85,15 +85,9 @@ python miko_desktop_pet_app.py
 
 ---
 
-## 💝 Support the Developer & Custom Commissions
+## ⭐ Support & Custom Commissions
 
-Although **Hidzuki** is released **100% free & open-source**, she was crafted with the same multi-layer rigging, physics deformation, and OS integration as paid commercial desktop companions.
-
-- ⭐ **Star & Share**: Please give this repository a **⭐ Star** on GitHub!
-- ⛩️ **BOOTH Supporter / O-saisen Edition (`¥300 JPY`)**:
-  - [**Free ¥0 BOOTH Page**](https://nocturne-live2d.booth.pm/items/9075455)
-  - [**¥300 Shrine Offering (O-saisen) Supporter Edition on BOOTH**](https://nocturne-live2d.booth.pm/items/9075304)
-  - [**Previous Work: 4-Stage Transformation Shrine Maiden 2D Live (`¥200`)**](https://nocturne-live2d.booth.pm/items/9067736)
+- ⭐ **Star & Share**: If you enjoy Hidzuki & Little White Fox, please click **⭐ Star** at the top-right of this GitHub repository!
 - 🎨 **Custom 2D Live / AI Desktop Mascot Commissions**:
   - Want to turn your own OC, VTuber model, or anime illustration into an interactive physics-rigged 2D Live AI desktop companion?
   - 📩 **Contact Email**: [**wm2841944156@gmail.com**](mailto:wm2841944156@gmail.com)
